@@ -134,9 +134,3 @@ DELETE /products/1
 * ProductEndpoint.cs → Contains logic
 * Product.cs → Defines data model
 * Data stored in a List<Product>
-
----
-
-## 📄 License
-
-Free to use for learning purposes
