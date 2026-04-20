@@ -1,6 +1,11 @@
-#  Product API (ASP.NET Core Minimal API)
-
+# 📦 Product API (ASP.NET Core Minimal API)
 A simple ASP.NET Core Minimal API that performs basic CRUD operations on a Product resource.
+
+![.NET](https://img.shields.io/badge/.NET-8.0-blue)
+![C#](https://img.shields.io/badge/C%23-Programming-purple)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET-Core-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 ---
 
