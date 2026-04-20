@@ -1,10 +1,10 @@
-# 📦 Product API (ASP.NET Core Minimal API)
+#  Product API (ASP.NET Core Minimal API)
 
 A simple ASP.NET Core Minimal API that performs basic CRUD operations on a Product resource.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Create a product (POST)
 * Get all products (GET)
@@ -14,7 +14,7 @@ A simple ASP.NET Core Minimal API that performs basic CRUD operations on a Produ
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ```
 ProductApi/
@@ -27,7 +27,7 @@ ProductApi/
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 * ASP.NET Core (.NET)
 * Minimal API
@@ -36,7 +36,7 @@ ProductApi/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -61,9 +61,9 @@ https://localhost:xxxx/swagger
 
 ---
 
-## 🧪 API Endpoints
+##  API Endpoints
 
-### 🔹 Create Product
+### Create Product
 
 POST `/products`
 
@@ -77,13 +77,13 @@ POST `/products`
 
 ---
 
-### 🔹 Get All Products
+###  Get All Products
 
 GET `/products`
 
 ---
 
-### 🔹 Get Product by ID
+###  Get Product by ID
 
 GET `/products/{id}`
 
@@ -95,7 +95,7 @@ GET /products/1
 
 ---
 
-### 🔹 Delete Product
+###  Delete Product
 
 DELETE `/products/{id}`
 
@@ -107,7 +107,7 @@ DELETE /products/1
 
 ---
 
-## 📌 Example Response
+##  Example Response
 
 ```
 {
@@ -120,7 +120,7 @@ DELETE /products/1
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Data is stored in memory (no database)
 * Data will reset when the app restarts
@@ -128,7 +128,7 @@ DELETE /products/1
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 * Program.cs → Defines API routes
 * ProductEndpoint.cs → Contains logic
